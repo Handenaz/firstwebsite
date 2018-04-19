@@ -1,0 +1,21 @@
+h1 {
+color: #D3D3D3;
+font-family: "Comicsansms",cursive;
+font-style: normal;
+font-weight: normal;
+font-size:100px;
+text-align: center;
+background-color:transparent;
+border-style: solid;
+border-color:	#D3D3D3;
+ border-width: 8px;
+}
+
+
+body {
+background-image: 'images\t.jpg';
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
